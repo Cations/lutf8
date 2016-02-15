@@ -15,13 +15,17 @@ You can also grab a [rock][4]!
 luarocks install lutf8
 ```
 ## Usage
-Check the Lua Manual for information
+```lua
+local utf = require "utf8"
+```
+Check the [Lua Manual][5] for information
 
 ## License
-[MIT License - Copyright (C) 1994-2015 Lua.org, PUC-Rio, 2015 LOVE Development Team.][5]
+[MIT License - Copyright (C) 1994-2015 Lua.org, PUC-Rio, 2015 LOVE Development Team.][6]
 
 [1]:http://www.lua.org/download.html
 [2]:https://github.com/Positive07/lutf8/blob/master/makefile
 [3]:https://github.com/Positive07/lutf8/blob/master/src/makefile
 [4]:https://luarocks.org/modules/positive07/lutf8
-[5]:https://github.com/Positive07/lutf8/blob/master/LICENSE
+[5]:http://www.lua.org/manual/5.3/manual.html#6.5
+[6]:https://github.com/Positive07/lutf8/blob/master/LICENSE
