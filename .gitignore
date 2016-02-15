@@ -1,0 +1,80 @@
+### Linux ###
+*~
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+# KDE directory preferences
+.directory
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+### Lua ###
+# Compiled Lua sources
+luac.out
+# luarocks build files
+*.src.rock
+*.tar.gz
+*.zip
+
+### C++ and C ###
+# Compiled Object files
+*.o
+*.obj
+
+*.lo
+*.slo
+
+*.elf
+*.ko
+
+*.os
+
+# Precompiled Headers
+*.pch
+*.gch
+
+# Compiled Dynamic libraries, Shared Objects
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.a
+*.la
+*.lai
+*.lib
+*.def
+*.exp
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+
+### Autotools ###
+# http://www.gnu.org/software/automake
+Makefile.in
+
+# http://www.gnu.org/software/autoconf
+/aclocal.m4
+/autom4te.cache
+/autoscan-*.log
+/autoscan.log
+/compile
+/config.h.in
+/configure
+/configure.scan
+/depcomp
+/install-sh
+/missing
+/stamp-h1
