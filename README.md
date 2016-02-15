@@ -16,7 +16,7 @@ luarocks install lutf8
 ```
 ## Usage
 ```lua
-local utf = require "utf8"
+local utf8 = require "utf8"
 ```
 Check the [Lua Manual][5] for information
 
