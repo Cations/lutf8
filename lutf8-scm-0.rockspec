@@ -1,4 +1,4 @@
-package = "Lua UTF-8"
+package = "lutf8"
 
 version = "scm-0"
 
@@ -44,7 +44,7 @@ local function make_plat(plat)
 		 "LUAUTF_DEBUG",
 		 "LUAUTF_INET_PTON",
 		 "WINVER=0x0501",
-		 "LUAUTF_API=__declspec(dllexport)",
+		 "LUAUTF_API=__declspec(dllexport)"
 	  }
 	}
 
