@@ -3,7 +3,7 @@ package = "lutf8"
 version = "scm-0"
 
 source = {
-   url = "https://github.com/Positive07/lutf8/archive/master.zip",
+   url = "https://github.com/Cations/lutf8/archive/master.zip",
    dir = "lutf8-master",
 }
 
@@ -16,7 +16,7 @@ description = {
 
       Copyright (C) 1994-2015 Lua.org, PUC-Rio, 2015 LOVE Development Team.
    ]],
-   homepage = "https://www.github.com/Positive07/lutf8/",
+   homepage = "https://www.github.com/Cations/lutf8/",
    license = "MIT"
 }
 
